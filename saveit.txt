@@ -1,3 +1,0 @@
-win32
-256
-Spam! Spam! Spam! Spam! Spam! Spam! Spam! Spam! 
