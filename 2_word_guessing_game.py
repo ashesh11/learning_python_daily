@@ -2,7 +2,7 @@ import random
 
 words = ['rainbow', 'computer', 'science', 'programming',
          'python', 'mathematics', 'player', 'condition',
-         'reverse', 'water', 'board', 'geeks']
+         'reverse', 'water', 'board', 'geeks', 'reeks']
 
 word = random.choice(words)
 print("Guess the characters!!")
