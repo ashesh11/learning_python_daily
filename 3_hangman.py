@@ -2,7 +2,7 @@ import random
 from traceback import print_tb
 words = ['rainbow', 'computer', 'science', 'programming',
          'python', 'mathematics', 'player', 'condition',
-         'reverse', 'water', 'board', 'geeks']
+         'reverse', 'water', 'board', 'geeks', 'reeks']
 
 word = random.choice(words)
 filtered_word = list(dict.fromkeys(sorted(word)))
