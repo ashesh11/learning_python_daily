@@ -39,4 +39,4 @@ while chance>0:
                 break
             else:
                 print("Incorrect Guess. You now have ",chance,"chance to guess the word.")
-print()
+input("")
